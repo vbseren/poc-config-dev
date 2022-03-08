@@ -1,0 +1,4 @@
+spring:
+  jackson:
+    time-zone: America/Lima
+    locale: es_PE
