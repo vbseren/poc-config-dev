@@ -1,7 +1,7 @@
 spring:
   jackson:
     time-zone: America/Lima
-    locale: ${MY_KEY}
+    locale: Bogota
 
 poc-app1:
   cache:
