@@ -2,3 +2,11 @@ spring:
   jackson:
     time-zone: America/Lima
     locale: ${MY_KEY}
+
+poc-app1:
+  cache:
+    host: myredis.redis.cache.windows.net
+    port: 6380
+    password: 'password desde Github.com'
+    enable_ssl: true
+    enable_cluster: false	
